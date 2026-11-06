@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE 配置（不要上传你的 PyCharm 设置）
+.idea/
+
+# 本地数据（向量库绝对不能上传）
+chroma_db_day13/
+
+# 环境变量（绝对不能上传 API Key）
+.env
+
+# 操作系统缓存
+.DS_Store
+Thumbs.db
